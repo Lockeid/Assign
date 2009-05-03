@@ -1,0 +1,21 @@
+## Interface: 30000
+## Title: Assign
+## Author: Soeters
+## LoadOnDemand: 0
+## X-eMail: soeters@free.fr
+## Version: 1.0
+## X-Website: http://www.soeters.free.fr
+## Notes: Helper for raid icons assignments
+## X-Category: Raid
+## X-CompatibleLocales: enUS, enGB, frFR
+## SavedVariables: AssignDB
+## OptionalDeps: Ace3, tekKonfig
+
+tekKonfig\tekKonfig.xml
+embeds.xml
+Libs\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1.lua
+
+Assign.lua
+Options.lua
+
